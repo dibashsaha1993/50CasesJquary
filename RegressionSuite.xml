@@ -1,0 +1,16 @@
+<suite name="regression suite">
+
+
+<test name="Regression Tests">
+
+<packages>
+
+    <package name="com.jqueryui.tests"></package>
+
+</packages>
+
+</test>
+
+
+
+        </suite>
